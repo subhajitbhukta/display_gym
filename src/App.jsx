@@ -80,7 +80,7 @@ useEffect(() => {
   const fetchIndividualData = async () => {
     try {
       const res = await axios.get(
-        "http://localhost:8000/api/individual-result"
+        "https://https://finaltsr.com/igss/api/67952737/result"
       );
 
       const json = res.data;
