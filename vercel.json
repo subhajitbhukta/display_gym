@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/igss/:path*",
+      "destination": "https://finaltsr.com/igss/:path*"
+    }
+  ]
+}
