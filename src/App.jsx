@@ -5,7 +5,7 @@ function App() {
   return (
     <Routes>
       <Route
-        path="/display/:screens"
+        path="/display"
         element={<CombinedRankingDisplay />}
       />
     </Routes>
