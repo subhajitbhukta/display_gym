@@ -16,9 +16,6 @@ const PremiumHeader = () => {
           <div className="text-white font-extrabold text-xl tracking-wide">
             EASY <span className="text-green-400">SPORTS</span>
           </div>
-          <div className="text-gray-400 text-[10px] tracking-widest">
-            EVENTS • SCORING • MANAGEMENT
-          </div>
         </div>
       </div>
 
